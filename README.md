@@ -1,2 +1,2 @@
 # analytics-dashboard
-Analytics Dashboard for Medium Hackd app
+Analytics Dashboard for Medium Hackd chrome extension
